@@ -1,9 +1,9 @@
 <h1 align="center">Olá!! Eu sou o Walter Berchez</h1>
 <h3 align="center">Um estudante de Bacharelado da Ciência da Computação na UNIFAL-MG.</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=berchez&show_icons=true&hide=issues,contribs&theme=tokyonight&locale=en" alt="berchez" /></p>
+<p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=berchez&show_icons=true&hide=issues,contribs&theme=tokyonight&locale=en" alt="berchez" style="max-width:100%;" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=berchez&show_icons=true&theme=tokyonight&locale=en" alt="berchez" style="width: 300px;" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berchez&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="berchez" /></p>
 
 
 ---
