@@ -2,8 +2,8 @@
 <h3 align="center">Um estudante de Bacharelado da Ciência da Computação na UNIFAL-MG.</h3>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berchez&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="berchez" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=berchez&show_icons=true&hide=issues,contribs&theme=tokyonight&locale=en" alt="berchez" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berchez&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="berchez" />
+  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=berchez&show_icons=true&hide=issues,contribs&theme=tokyonight&locale=en" alt="berchez" />
 </p>
 
 <p></p>
