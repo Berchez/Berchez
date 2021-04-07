@@ -29,6 +29,9 @@
         <a href="https://www.w3schools.com/css/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
         </a>
+        <a href="https://www.w3schools.com/css/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg" alt="handlebars" width="40" height="40"/>
+        </a>
     </p>
 </div>
 
@@ -39,7 +42,7 @@
 - 👨‍💻 Todos meus projetos estão disponíveis em: [https://github.com/Berchez?tab=repositories](https://github.com/Berchez?tab=repositories)
 
 ---
-
+### Redes Sociais:
 <p align="left">
 <a href="https://linkedin.com/in/walter-felipe-divino-berchez-837697191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="walter-felipe-divino-berchez-837697191" height="30" width="40" /></a>
 <a href="https://fb.com/walter.felipe.796" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="walter.felipe.796" height="30" width="40" /></a>
