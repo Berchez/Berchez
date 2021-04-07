@@ -7,6 +7,7 @@
 </p>
 
 <p></p>
+
 ---
 
 - 🌱 Atualmente buscando aprender **Python, Selenium, JavaScript e SQL.**
