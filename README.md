@@ -37,7 +37,7 @@
 
 ---
 
-- 🌱 Atualmente buscando aprender **Python, Selenium, JavaScript e SQL.**
+- 🌱 Atualmente buscando aprender **React, React Native, Next e Node.**
 
 - 👨‍💻 Todos meus projetos estão disponíveis em: [https://github.com/Berchez?tab=repositories](https://github.com/Berchez?tab=repositories)
 
