@@ -9,7 +9,11 @@
 <div style="display: inline_block"><br>
       <p align="left">        
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>         </a>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>         
+        </a>
+        <a href="https://www.w3schools.com/react/" target="_blank">
+          <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="react" width="40" height="40"/>
+        </a>
         <a href="https://nodejs.org" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>                     </a>
         <a href="https://www.python.org" target="_blank">
@@ -28,9 +32,6 @@
         </a>
         <a href="https://www.w3schools.com/css/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg" alt="handlebars" width="40" height="40"/>
         </a>
     </p>
 </div>
