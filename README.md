@@ -7,15 +7,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berchez&layout=compact&langs_count=8&theme=tokyonight"/>
 <div>
 <div style="display: inline_block"><br>
-      <p align="left">        
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>         
-        </a>
+      <p align="left">    
         <a href="https://www.w3schools.com/react/" target="_blank">
           <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="react" width="40" height="40"/>
         </a>
+        <a href="https://www.w3schools.com/typescript/" target="_blank">
+          <img src="https://logospng.org/download/typescript/typescript-4096.png" alt="typescript" width="40" height="40" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>         
+        </a>
         <a href="https://nodejs.org" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>                     </a>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>                               </a>
         <a href="https://www.python.org" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         </a>
