@@ -1,9 +1,9 @@
-<h1 align="center">Olá!! Eu sou o Walter Berchez</h1>
-<h3 align="center">Um estudante de Bacharelado da Ciência da Computação na UNIFAL-MG.</h3>
+<h1 align="center">Hello!! I'm Walter Berchez</h1>
+<h3 align="center">A front-end developer passionate about ReactJS</h3>
 
 <div>
   <a href="https://github.com/Berchez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Berchez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Berchez&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berchez&layout=compact&langs_count=8&theme=tokyonight"/>
 <div>
 <div style="display: inline_block"><br>
@@ -38,15 +38,12 @@
 
 ---
 
-- 🌱 Atualmente buscando aprender **React, React Native, Next e Node.**
+- 🌱 Currently learning **Next, React, React Native and Node.**
 
-- 👨‍💻 Todos meus projetos estão disponíveis em: [https://github.com/Berchez?tab=repositories](https://github.com/Berchez?tab=repositories)
+- 👨‍💻 All my projects are available at: [https://github.com/Berchez?tab=repositories](https://github.com/Berchez?tab=repositories)
 
----
-### Redes Sociais:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=berchez&label=Profile%20views&color=0e75b6&style=flat" alt="berchez" /> </p>
 <p align="left">
 <a href="https://linkedin.com/in/walter-felipe-divino-berchez-837697191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="walter-felipe-divino-berchez-837697191" height="30" width="40" /></a>
-<a href="https://fb.com/walter.felipe.796" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="walter.felipe.796" height="30" width="40" /></a>
-<a href="https://instagram.com/berchezwalter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="berchezwalter" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berchez&label=Profile%20views&color=0e75b6&style=flat" alt="berchez" /> </p>
+
