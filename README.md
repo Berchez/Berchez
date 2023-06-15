@@ -47,6 +47,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berchez&label=Profile%20views&color=0e75b6&style=flat" alt="berchez" /> </p>
 <p align="left">
-<a href="https://linkedin.com/in/walter-felipe-divino-berchez-837697191" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="walter-felipe-divino-berchez-837697191" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/walter-felipe-divino-berchez-837697191" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="walter-felipe-divino-berchez-837697191" height="40" width="40" /></a>
 </p>
 
