@@ -12,7 +12,7 @@
 <div height="100%">
   <img width="70%" src="https://streak-stats.demolab.com/?user=Berchez&theme=tokyonight"/>
   &nbsp; &nbsp;
-  <img height="279px" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berchez&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="240px" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berchez&layout=compact&langs_count=8&theme=tokyonight"/>
 <div>
 
 <br/><br/>
