@@ -1,6 +1,6 @@
 <p align="center">
   <br><br>
-  <img width="100%" src="https://i.imgur.com/amavxL3.gif">
+  <img width="100%" height="350px" src="https://i.imgur.com/amavxL3.gif">
   <br/><br/>
 </p>
 <h1 align="center">I'm Walter Berchez</h1>
