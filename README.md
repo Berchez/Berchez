@@ -34,14 +34,13 @@
 
 #### Other languages and tools I know:
 
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=babel"/>](https://babeljs.io/docs/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://www.w3schools.com/css/css_intro.asp)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=docker"/>](https://docs.docker.com/get-started/docker-overview/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=haskell"/>](https://www.haskell.org)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://www.w3schools.com/sass/sass_intro.asp)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=styledcomponents"/>](https://styled-components.com/docs/basics)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=docker"/>](https://docs.docker.com/get-started/docker-overview/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=materialui"/>](https://mui.com/material-ui/react-text-field/)
 
 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
@@ -49,16 +48,29 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.w3schools.com/mysql/mysql_intro.asp)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/docs/manual/introduction/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://www.w3schools.com/sass/sass_intro.asp)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=styledcomponents"/>](https://styled-components.com/docs/basics)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=babel"/>](https://babeljs.io/docs/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-basics)
+  
 
 <br/><br/>
 
----
+## Professional Background:
 
-- 🌱 Currently learning **Next, React, React Native and Node.**
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="WorldLabs" src="https://i.imgur.com/Xw7URCv.png"/>](https://www.worldlabs.org/)
+**Frontend Developer** \
+[**WorldLabs**](https://www.worldlabs.org/) • Ongoing\
+Main stak: `React` `Javascript` `SASS` `MongoDB`.\
+<br/>
 
-- 👨‍💻 All my projects are available at: [https://github.com/Berchez?tab=repositories](https://github.com/Berchez?tab=repositories)
+### Main achievements:
+1. **[Analytics](https://www.linkedin.com/posts/worldlabs_3-powerful-ways-to-measure-impact-in-your-activity-7151972305504530432-C5Gq?utm_source=share&utm_medium=member_desktop):** Developed a data dashboard to monitor user behavior, traffic, and the evolution of the communities and groups.
+2. **[Marketplace](https://www.worldlabs.org/c/catalisahub/mkt/startup-pitch?size=n_24_n):** Development of a scalable platform for selling products/services/ideas.
+3. **[Interactive Calendar](https://www.linkedin.com/posts/worldlabs_the-new-interactive-calendar-features-allows-activity-7253098931214004224-QvsY?utm_source=share&utm_medium=member_desktop):** I created an intuitive interface for users to keep track of events and opportunities.
+4. **[Mobile App](https://www.linkedin.com/posts/worldlabs_were-counting-down-the-days-until-the-launch-activity-7247259299855437825-uA4I?utm_source=share&utm_medium=member_desktop)**: Development of the WorldLabs hybrid application, ensuring accessibility and performance on mobile devices.
+
+
+<br>
+
 
 <br/><br/>
 
