@@ -86,7 +86,7 @@ Main stak: `React` `Next.js` `Typescript` `Jest` `SQL`.\
 
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="TribitJr" src="https://i.imgur.com/MmH2DCZ.png"/>](https://br.linkedin.com/in/tribit-jr-266233123)
 **Frontend Developer** \
-[**Mgnet Technology**](https://mgnettecnologia.com.br/) • 2019 - 2020\
+[**Tribit Jr.**](https://mgnettecnologia.com.br/) • 2019 - 2020\
 Main stak: `HTML` `CSS` `Javascript` `Bootstrap`\
 <br/>
 
