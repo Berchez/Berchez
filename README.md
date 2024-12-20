@@ -79,7 +79,7 @@ Main stak: `React` `Next.js` `Typescript` `Jest` `SQL`.\
 <br/>
 
 ### Main achievements:
-1. **[MSEMG](https://bancodeprojetos.cnmp.mp.br/Detalhe?idProjeto=3980):** I led the frontend develepment of the MSEMG (Effective Socio-Educational Measures of Minas Gerais), a system for monitoring juvenile offenders in the state of Minas Gerais.
+1. **[MSEMG](https://bancodeprojetos.cnmp.mp.br/Detalhe?idProjeto=3980):** I led the frontend development of the MSEMG (Effective Socio-Educational Measures of Minas Gerais), a system for monitoring juvenile offenders in the state of Minas Gerais.
 2. **[e-Aqua Agro](https://www.linkedin.com/posts/mgnet-tecnologia_gestaetorural-agronegaejcio-inovaaexaetonocampo-activity-7222712408866250753-4Opg?utm_source=share&utm_medium=member_desktop):** Contributes to Aqua-Agro A system focused on Brazilian agribusiness
 4. **[Self-service Kiosk System](https://www.linkedin.com/posts/mgnet-tecnologia_totemdeautoatendimento-inovaaexaeto-sistemaserp-activity-7181771148903280640-covI?utm_source=share&utm_medium=member_desktop)**: I created the prototypes for the system where I defined the entire UI and UX
 
